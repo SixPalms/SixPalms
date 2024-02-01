@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73fb9af2-0e2d-4e4c-a791-edb59bdf113a" name="Changes" comment="代码导入">
-      <change beforePath="$PROJECT_DIR$/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/.last_build_id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706768736836</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="代码导入">
+      <option name="closed" value="true" />
+      <created>1706769699984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706769699984</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
