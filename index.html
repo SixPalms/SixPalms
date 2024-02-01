@@ -34,7 +34,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "155228319";
+    const serviceWorkerVersion = "1900049418";
 
     function getPersonInfo() {
         const Person = {
@@ -46,10 +46,9 @@
         return jsonString;
     }
 
-    function saveImage(){
-     Android.showToast("Hello, world!");
-      javascript:control.saveMsg();
-       return 'save image';
+    function saveImage(data){
+     Android.showToast(data);
+       return '';
     }
 
 
